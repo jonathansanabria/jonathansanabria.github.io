@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Some artworks"
+excerpt: "These are all works made or archived by me. Everything from the ceramic skull to the paintings."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+"From the visitors series<img src='/images/from_visitors_series.JPG'>"
+
+"A black racer looking cute<img src='/images/line.jpg'>"
+
+"Inside Looking out 3<img src='/images/inside-looking-out-3.jpg'>"
+
+"Bust display<img src='/images/bust.gif'>"
+
+"Red bellied woodpecker working<br/><img src='/images/worker.JPG'>"
+
+"The-Kiss-Chekika<img src='/images/The-Kiss-Chekika.jpg'>"
+
+"Four-tricolored-herons <img src='/images/four-tricolored-herons.JPG'>"
+
+"Fruits feel too <img src='/images/fruits_feel_too.JPG'>"
