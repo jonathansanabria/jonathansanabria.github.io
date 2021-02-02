@@ -18,4 +18,4 @@ collection: portfolio
 
 "Four-tricolored-herons <img src='/images/four-tricolored-herons.JPG'>"
 
-"Fruits feel too <img src='/images/fruits_feel_too.JPG'>"
+"Fruits feel too <img src='/images/fruits_feel_too.jpg'>"
